@@ -1,7 +1,7 @@
-[README 3.md](https://github.com/user-attachments/files/32781853/README.3.md)
+
 <div align="center">
 
-# · Scoring de riesgo crediticio
+# Scoring de riesgo crediticio
 
 **¿Este emprendedor pagará su microcrédito? Un modelo lo estima antes de desembolsar.**
 
@@ -98,7 +98,6 @@ n_estimators=200, max_depth=8, criterion='gini', random_state=42
 ├── modelo_credit_risk.pkl  modelo + escalador + lista de variables
 ├── report_data.json        datos usados para el informe
 ├── requirements.txt        dependencias
-└── README.md
 ```
 
 ## Puesta en marcha
